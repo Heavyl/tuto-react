@@ -26,9 +26,7 @@ export default ShoppingList
     //Else if category is created add product to it
     //pass to the next element
 
-//loop a second time in the array
-    //check category
-    //assign product to category
+
     
 
     
