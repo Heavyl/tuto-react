@@ -1,0 +1,14 @@
+.lmj-title{
+    display: flex;   
+    align-items: center ;
+    color : black;
+    text-align: center;
+    padding : 32px;
+    border-bottom : solid 3px black;
+}
+.lmj-title h1{
+    display: inline;
+}
+.lmj-logo{
+    width: 60px;
+}
